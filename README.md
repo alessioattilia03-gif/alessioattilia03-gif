@@ -1,32 +1,24 @@
 <div align="center">
 
-<br/>
-
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-# ✦ &nbsp; A L E S S I O &nbsp; A T T I L I A &nbsp; ✦
-
-### `Ingegnere Informatico` &nbsp;·&nbsp; `Cybersecurity & AI` &nbsp;·&nbsp; `Roma, Italia`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0c08&height=3&section=header" width="100%"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alessio--attilia-1a1814?style=flat-square&logo=linkedin&logoColor=B8996A&labelColor=1a1814&color=2a2618)](https://linkedin.com/in/alessio-attilia)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0c08&height=180&section=header&text=Alessio%20Attilia&fontColor=e8c97e&fontSize=52&fontAlign=50&fontAlignY=55&desc=Ingegnere%20Informatico%20%C2%B7%20Cybersecurity%20%26%20AI%20%C2%B7%20Roma%2C%20Italia&descFontColor=a89f7c&descSize=15&descAlignY=78" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0c08?style=for-the-badge&logo=linkedin&logoColor=e8c97e)](https://linkedin.com/in/alessio-attilia)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-web-1a1814?style=flat-square&logo=safari&logoColor=B8996A&labelColor=1a1814&color=2a2618)](https://alessioattilia03-gif.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0c08?style=for-the-badge&logo=firefox&logoColor=e8c97e)](https://alessioattilia03-gif.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-contact-1a1814?style=flat-square&logo=gmail&logoColor=B8996A&labelColor=1a1814&color=2a2618)](mailto:alessio.attilia.sec@gmail.com)
-
-<br/>
-
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+[![Email](https://img.shields.io/badge/Email-0d0c08?style=for-the-badge&logo=gmail&logoColor=e8c97e)](mailto:alessio.attilia.sec@gmail.com)
 
 <br/>
 
 </div>
+
+---
 
 ## &nbsp;◈&nbsp; Chi sono
 
@@ -91,28 +83,32 @@ profile = {
 
 ## &nbsp;◈&nbsp; Formazione & Certificazioni
 
-<table>
-<tr>
-<td width="28%" align="right"><sub><b>apr. 2026</b></sub></td>
-<td>🎓 &nbsp; <b>Laurea Triennale</b> — Ingegneria Informatica (Cybersecurity) &nbsp;·&nbsp; <i>Università e-Campus</i></td>
-</tr>
-<tr>
-<td align="right"><sub><b>set. 2026 →</b></sub></td>
-<td>🎓 &nbsp; <b>Laurea Magistrale</b> — Intelligenza Artificiale &nbsp;·&nbsp; <i>UniMarconi · Incoming</i></td>
-</tr>
-<tr>
-<td align="right"><sub><b>ago. 2025</b></sub></td>
-<td>📜 &nbsp; <b>OCI Foundations Associate</b> &nbsp;·&nbsp; <i>Oracle</i></td>
-</tr>
-<tr>
-<td align="right"><sub><b>gen. 2026</b></sub></td>
-<td>📜 &nbsp; <b>Interazione con l'AI</b> &nbsp;·&nbsp; <i>Programma GOL</i></td>
-</tr>
-<tr>
-<td align="right"><sub><b>in corso</b></sub></td>
-<td>📜 &nbsp; <b>Sviluppatore C# & .NET Core</b> &nbsp;·&nbsp; <i>TalentForm</i></td>
-</tr>
-</table>
+```
+                                                                    
+  2017 ──┬──────────────────────────────────────────────────────
+         │  🏫  Liceo Scientifico Lattanzio
+         │      Diploma Scientifico — Scienze Applicate
+         │      Roma, Italia
+         │
+  2022 ──┼──────────────────────────────────────────────────────
+         │  🎓  Università e-Campus
+         │      Laurea Triennale · Ingegneria Informatica
+         │      Specializzazione: Cybersecurity
+         │      Tesi: MDE per sistemi avionici safety-critical
+         │
+  2026 ──┼──────────────────────────────────────────────────────
+         │  📜  OCI Foundations Associate · Oracle          ago.
+         │  📜  Interazione con l'AI · Programma GOL        gen.
+         │  📜  Sviluppatore C# & .NET Core · TalentForm  ◈ in corso
+         │
+  2026 ──┼──────────────────────────────────────────────────────
+    →    │  🎓  UniMarconi
+         │      Laurea Magistrale · Intelligenza Artificiale
+         │      Incoming Student · set. 2026 – 2028
+         │
+  2028 ──┴──────────────────────────────────────────────────────
+         ✦  atteso
+```
 
 <br/>
 
@@ -122,12 +118,10 @@ profile = {
 
 <br/>
 
-<sub>*Profilo in aggiornamento continuo — nuovi progetti aggiunti con regolarità.*</sub>
+<sub>*Profilo in aggiornamento.*</sub>
 
 <br/><br/>
 
-```
-  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0c08&height=3&section=footer" width="100%"/>
 
 </div>
