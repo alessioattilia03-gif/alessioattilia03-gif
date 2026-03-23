@@ -83,29 +83,33 @@ profile = {
 
 ```
                                                                     
-  2017 ──┬──────────────────────────────────────────────────────
-         │  🏫  Liceo Scientifico Lattanzio
-         │      Diploma Scientifico — Scienze Applicate
-         │      Roma, Italia
-         │
-  2022 ──┼──────────────────────────────────────────────────────
-         │  🎓  Università e-Campus
-         │      Laurea Triennale · Ingegneria Informatica
-         │      Specializzazione: Cybersecurity
-         │      Tesi: MDE per sistemi avionici safety-critical
-         │
-  2026 ──┼──────────────────────────────────────────────────────
-         │  📜  OCI Foundations Associate · Oracle          ago.
-         │  📜  Interazione con l'AI · Programma GOL        gen.
-         │  📜  Sviluppatore C# & .NET Core · TalentForm  ◈ in corso
-         │
-  2026 ──┼──────────────────────────────────────────────────────
-    →    │  🎓  UniMarconi
-         │      Laurea Magistrale · Intelligenza Artificiale
-         │      Incoming Student · set. 2026 – 2028
-         │
-  2028 ──┴──────────────────────────────────────────────────────
-         ✦  atteso
+  2017 ──┬──────────────────────────────────────────────────────────
+        │  🏫  Liceo Scientifico Lattanzio 
+        │      Diploma Scientifico — Scienze Applicate
+        │      Roma, Italia 
+        │
+ 2022 ──┼──────────────────────────────────────────────────────────
+        │  🎓  Università e-Campus (L-8) 
+        │      Inizio Laurea Triennale in Ingegneria Informatica 
+        │      Curriculum Cybersecurity 
+        │
+ 2025 ──┼──────────────────────────────────────────────────────────
+        │  📜  OCI Foundations Associate · Oracle 
+        │      Certificazione Cloud ottenuta ad Agosto 2025 
+        │
+ 2026 ──┼──────────────────────────────────────────────────────────
+        │  📜  Interazione con l'AI · Programma GOL (Gennaio) 
+        │  📜  Sviluppatore C# & .NET Core · TalentForm (In corso) 
+        │  🎓  Laurea Triennale conseguita (22 Aprile) 
+        │      Tesi: Approccio MDE per sistemi avionici safety-critical 
+        │
+ 2026 ──┼──────────────────────────────────────────────────────────
+  sett. │  🎓  UniMarconi 
+        │      Inizio Laurea Magistrale in Intelligenza Artificiale 
+        │      Incoming Student 
+        │
+ 2028 ──┴──────────────────────────────────────────────────────────
+        ✦  Completamento atteso del percorso Magistrale 
 ```
 
 <br/>
