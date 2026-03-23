@@ -6,7 +6,7 @@
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e8c97e?style=for-the-badge&logo=linkedin&logoColor=0d0c08)](https://linkedin.com/in/alessio-attilia)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8c97e?style=for-the-badge&logo=firefox&logoColor=0d0c08)](https://alessioattilia03-gif.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8c97e?style=for-the-badge&logo=firefox&logoColor=0d0c08)](https://github.com/alessioattilia03-gif)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-e8c97e?style=for-the-badge&logo=gmail&logoColor=0d0c08)](mailto:alessio.attilia.sec@gmail.com)
  
