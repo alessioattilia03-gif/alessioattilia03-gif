@@ -1,9 +1,5 @@
 <div align="center">
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0c08&height=120&section=header&text=Alessio%20Attilia&fontColor=e8c97e&fontSize=42&fontAlignY=65&desc=Ingegnere%20Informatico%20%C2%B7%20Cybersecurity%20%26%20AI&descFontColor=a89f7c&descSize=14&descAlignY=85" width="100%"/>
- 
-<br/>
- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=18&duration=3000&pause=1000&color=E8C97E&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Model-Driven+Engineering;Safety-Critical+Systems+%7C+MDE+%7C+DO-178C;Incoming+MSc+Artificial+Intelligence+%E2%80%94+2026;Sempre+in+aggiornamento.)](https://git.io/typing-svg)
  
 <br/>
