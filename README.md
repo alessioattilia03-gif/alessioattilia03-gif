@@ -1,22 +1,24 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0c08&height=3&section=header" width="100%"/>
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0c08&height=120&section=header&text=Alessio%20Attilia&fontColor=e8c97e&fontSize=42&fontAlignY=65&desc=Ingegnere%20Informatico%20%C2%B7%20Cybersecurity%20%26%20AI&descFontColor=a89f7c&descSize=14&descAlignY=85" width="100%"/>
+ 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d0c08&height=180&section=header&text=Alessio%20Attilia&fontColor=e8c97e&fontSize=52&fontAlign=50&fontAlignY=55&desc=Ingegnere%20Informatico%20%C2%B7%20Cybersecurity%20%26%20AI%20%C2%B7%20Roma%2C%20Italia&descFontColor=a89f7c&descSize=15&descAlignY=78" width="100%"/>
-
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=300&size=18&duration=3000&pause=1000&color=E8C97E&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Model-Driven+Engineering;Safety-Critical+Systems+%7C+MDE+%7C+DO-178C;Incoming+MSc+Artificial+Intelligence+%E2%80%94+2026;Sempre+in+aggiornamento.)](https://git.io/typing-svg)
+ 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0c08?style=for-the-badge&logo=linkedin&logoColor=e8c97e)](https://linkedin.com/in/alessio-attilia)
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-e8c97e?style=for-the-badge&logo=linkedin&logoColor=0d0c08)](https://linkedin.com/in/alessio-attilia)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0c08?style=for-the-badge&logo=firefox&logoColor=e8c97e)](https://alessioattilia03-gif.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8c97e?style=for-the-badge&logo=firefox&logoColor=0d0c08)](https://alessioattilia03-gif.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0d0c08?style=for-the-badge&logo=gmail&logoColor=e8c97e)](mailto:alessio.attilia.sec@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-e8c97e?style=for-the-badge&logo=gmail&logoColor=0d0c08)](mailto:alessio.attilia.sec@gmail.com)
+ 
 <br/>
-
+ 
 </div>
+ 
+---
 
 ---
 
