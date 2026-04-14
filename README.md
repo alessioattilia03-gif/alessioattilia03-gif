@@ -98,9 +98,9 @@ profile = {
         │      Certificazione Cloud ottenuta ad Agosto 2025 
         │
  2026 ──┼──────────────────────────────────────────────────────────
-        │  📜  Interazione con l'AI · Programma GOL (Gennaio) 
-        │  📜  Sviluppatore C# & .NET Core · TalentForm (In corso) 
-        │  🎓  Laurea Triennale conseguita (22 Aprile) 
+        │  📜  Interazione con l'AI · Programma GOL (01/2026) 
+        │  📜  Sviluppatore C# & .NET Core · TalentForm (02/2026-03/2026)
+        │  🎓  Laurea Triennale conseguita (22/04) 
         │      Tesi: Approccio MDE per sistemi avionici safety-critical 
         │
  2026 ──┼──────────────────────────────────────────────────────────
