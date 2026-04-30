@@ -105,7 +105,7 @@ profile = {
         │
  2026 ──┼──────────────────────────────────────────────────────────
   sett. │  🎓  UniMarconi 
-        │      Inizio Laurea Magistrale in Intelligenza Artificiale 
+        │      Inizio Laurea Magistrale in Digital Innovation Engineering
         │      Incoming Student 
         │
  2028 ──┴──────────────────────────────────────────────────────────
