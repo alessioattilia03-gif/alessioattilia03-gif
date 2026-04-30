@@ -22,7 +22,7 @@
 
 > *Ingegnere Informatico specializzato in Cybersecurity, con un focus verticale sull'affidabilità del software e lo sviluppo .NET/C#. La mia esperienza accademica si è conclusa con una tesi sul Model-Driven Engineering (MDE) applicato a sistemi avionici safety-critical, dove la correttezza formale e l'eliminazione delle vulnerabilità sono requisiti imprescindibili.*
 
-Orientato alla crescita continua, integro soluzioni di Intelligenza Artificiale nel workflow tecnico per elevare il rigore dell'analisi e la qualità del codice. Da settembre 2026 proseguirò questo percorso con una laurea magistrale in AI, puntando a diventare una figura ibrida capace di progettare sistemi complessi, sicuri e intelligenti.
+Orientato alla crescita continua, integro soluzioni di Intelligenza Artificiale nel workflow tecnico per elevare il rigore dell'analisi e la qualità del codice. Da settembre 2026 proseguirò questo percorso con una laurea magistrale Digital Innovation Engineering.
 
 <br/>
 
